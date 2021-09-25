@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:title="@string/categories">
+        <menu>
+            <item android:id="@+id/sportsFragment"
+                android:icon="@drawable/ic_sports"
+                android:title="@string/sports"/>
+            <item android:id="@+id/businessFragment"
+                android:icon="@drawable/ic_finance"
+                android:title="@string/business"/>
+            <item android:id="@+id/scienceFragment"
+                android:icon="@drawable/ic_science"
+                android:title="@string/science"/>
+            <item android:id="@+id/entertainmentFragment"
+                android:icon="@drawable/ic_entertainment"
+                android:title="@string/entertainment"/>
+            <item android:id="@+id/healthFragment"
+                android:icon="@drawable/ic_health"
+                android:title="@string/health"/>
+        </menu>
+    </item>
+
+    <item android:title="Settings">
+        <menu>
+            <item android:id="@+id/logOutButton"
+                android:icon="@drawable/ic_log_out"
+                android:onClick="logOut"
+                android:title="@string/log_out"/>
+        </menu>
+    </item>
+
+</menu>

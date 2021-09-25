@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889843281062",
+    "firebase_url": "https://newsreader-final.firebaseio.com",
+    "project_id": "newsreader-final",
+    "storage_bucket": "newsreader-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889843281062:android:b39aa107872ffaa1929867",
+        "android_client_info": {
+          "package_name": "com.example.newsreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889843281062-rdbjtlpcknh5ibea6600jtbm1fuc8bv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVkPNqYAqq-0y81wJmGda7owd0EJnDMQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889843281062-rdbjtlpcknh5ibea6600jtbm1fuc8bv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
